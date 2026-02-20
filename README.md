@@ -1,4 +1,5 @@
 ## Hi there, I’m Koolhaas👋
+[![Anurag's GitHub stats](https://github-readme-stats-one-bice.vercel.app/api?username=Kaohaaa&show_icons=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)](#)
 - 🌱 I’m focusing on **Classical Chinese**.
 - 🔭 I’m currently working on [Masa’s Mods lzh Translation Pack](https://github.com/Kaohaaa/masa-mods-lzh-trans)
 - 📫 Contact Me
