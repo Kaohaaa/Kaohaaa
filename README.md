@@ -8,8 +8,11 @@ I'm a normal high school student living in **Hangzhou**, China.
 
 And since I am **boarding** at school, I will have little time to be active on GitHub.
 
+~~Actually I'm bad at coding...~~
+
 ## Hobbies🥰
 - I love playing **Minecraft**!
+- I often translate texts with [Crowdin](https://crowdin.com).
 - I’m focusing on **Classical Chinese**.
 
 ## Activities🔭
