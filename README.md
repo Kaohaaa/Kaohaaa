@@ -9,6 +9,7 @@ I'm a normal high school student living in **Hangzhou**, China.
 And since I am **boarding** at school, I will have little time to be active on GitHub.
 
 ## Hobbies🥰
+- I love playing **Minecraft**!
 - I’m focusing on **Classical Chinese**.
 
 ## Activities🔭
