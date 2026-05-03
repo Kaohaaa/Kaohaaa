@@ -18,7 +18,7 @@ And since I am **boarding** at school, I will have little time to be active on G
 ## Activities🔭
 - I’m currently working on [Masa’s Mods lzh Translation Pack](https://github.com/Kaohaaa/masa-mods-lzh-trans) (hope so...)
 - I'm active on [礦藝大典](https://lzh.minecraft.wiki).
-- I'm helping [Unifont](https://unifoundry.com) complete its G source glyphs!
+- I'm helping [Unifont](https://unifoundry.com/unifont/index.html) complete its G source glyphs!
 
 ## Contact Me📫
   
