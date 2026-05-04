@@ -1,4 +1,5 @@
-# Hi there, I’m Koolhaas 👋
+<h1 align="center">Hi there, I’m Koolhaas 👋</h1>
+
 [![Anurag's GitHub stats](https://github-readme-stats-one-bice.vercel.app/api?username=Kaohaaa&show_icons=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)](#)
 
 ## About me🗒
