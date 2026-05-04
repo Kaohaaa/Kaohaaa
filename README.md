@@ -1,8 +1,12 @@
 <h1 align="center">Hi there, I’m Koolhaas 👋</h1>
 
+<div align="center">
+
 [![Anurag's GitHub stats](https://github-readme-stats-one-bice.vercel.app/api?username=Kaohaaa&show_icons=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)](#)
 
-## About me🗒
+</div>
+
+## About me 🗒
 My name is <ruby>考<rt>kǎo</rt>哈<rt>hā</rt></ruby>, you can also call me as <ruby>**Koolhaas**<rt>this one is better</rt></ruby> or **Kaohaaa**. 
 
 I'm a normal high school student living in **Hangzhou**, China. 
